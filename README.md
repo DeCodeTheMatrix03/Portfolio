@@ -11,6 +11,5 @@ Check Out My Portfolio Here: https://joel-nunez.netlify.app/
 
 <h2> How It's Made: HTML, CSS, JS</h2>
 
-<h4>Tech Used: React </h4>
 <p> A fully responsive portfolio website to show off my recent projects. My portfolio evolves with me as I learn new tools and languages dont be surprised if it looks completely different next time you see it :) </p>
 
