@@ -2,7 +2,7 @@
 <h1>Portfolio Site</h1>
 
 <p> 
-Check Out My Portfolio Here: 
+Check Out My Portfolio Here: https://joel-nunez.netlify.app/
 </p> 
 
 
