@@ -6,7 +6,7 @@ Check Out My Portfolio Here:
 </p> 
 
 
-<img width="1440" alt="Screen Shot 2022-10-24 at 3 56 49 PM" src="https://github.com/DeCodeTheMatrix03/Portfolio-Site/blob/main/ezgif.com-gif-maker%20(4).gif"
+<img width="1440" alt="Screen Shot 2022-10-24 at 3 56 49 PM" src="https://github.com/DeCodeTheMatrix03/Portfolio/blob/main/ezgif.com-gif-maker%20(5).gif"
      alt="Screenshot of the homepage">
 
 <h2> How It's Made: HTML, CSS, JS</h2>
